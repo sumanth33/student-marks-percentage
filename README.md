@@ -4,9 +4,10 @@ The provided code stub will read in a dictionary containing key/value pairs of n
 Sample Input 1
 
 2
-Harsh 25 26.5 28
-Anurag 26 28 30
+Harsh  25 26.5 28
+Anurag  26 28 30
 Harsh
+
 Sample Output 1
 
 26.50
